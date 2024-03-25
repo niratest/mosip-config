@@ -163,7 +163,7 @@ def getApplicantType() {
   }
   
   System.out.println(itc + " - " + genderType + " - " + ageCode + " - " + isBioExPresent);
-  if(userCase=Renewal && citizenshipType==null && fatherNIN==null && motherNIN==null && ageCode == CHILD  )
+  if(userCase==Renewal && citizenshipType==null && fatherNIN==null && motherNIN==null && ageCode == CHILD  )
   {
     return "001";
   }
