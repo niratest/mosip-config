@@ -103,6 +103,9 @@
         "residenceStatus": {
             "value": "residenceStatus"
         },
+"locationHierarchyForProfiling": {
+			"value": "applicantPlaceOfResidenceDistrict,applicantPlaceOfOriginDistrict,applicantPlaceOfBirthDistrict"
+		},
         "applicantPlaceOfResidence": {
             "value": "applicantPlaceOfResidence"
         },
