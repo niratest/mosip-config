@@ -103,6 +103,9 @@
         "residenceStatus": {
             "value": "residenceStatus"
         },
+"locationHierarchyForProfiling": {
+			"value": "applicantPlaceOfResidenceDistrict,applicantPlaceOfOriginDistrict,applicantPlaceOfBirthDistrict"
+		},
         "applicantPlaceOfResidence": {
             "value": "applicantPlaceOfResidence"
         },
@@ -163,6 +166,11 @@
         "placeOfBirthAddress": {
             "value": "applicantPlaceOfBirthDistrict,applicantPlaceOfBirthCounty,applicantPlaceOfBirthSubCounty,applicantPlaceOfBirthParish,applicantPlaceOfBirthVillage"
         },
+
+"applicantCitizenshipType": {
+            "value": "applicantCitizenshipType"
+        },
+        
         "applicantPlaceOfOriginDistrict": {
             "value": "applicantPlaceOfOriginDistrict"
         },
